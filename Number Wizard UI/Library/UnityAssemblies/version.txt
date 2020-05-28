@@ -1,0 +1,4 @@
+4.6.9f1:3.1.0.0
+StandaloneWindows
+C:/Users/nic_c/Documents/Unity 4/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Managed/UnityEngine.dll
+C:/Users/nic_c/Documents/Unity 4/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.9/Standalone/UnityEngine.UI.dll
